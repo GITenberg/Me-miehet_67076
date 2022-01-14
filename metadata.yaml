@@ -1,5 +1,8 @@
 _repo: Me-miehet_67076
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hirn, Eva
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53947
     wikipedia: https://fi.wikipedia.org/wiki/Eva_Hirn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67076#Me-miehet
 gutenberg_issued: '2022-01-01'
 identifiers:
   gutenberg: '67076'
